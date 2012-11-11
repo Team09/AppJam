@@ -14,21 +14,7 @@
 
 @implementation ViewController
 
-- (IBAction)MoodTracker
-{
-    
-}
 
-- (IBAction)Resources
-{
-    
-}
-
-
-- (IBAction)GetHelp
-{
-    
-}
 
 
 - (void)viewDidLoad

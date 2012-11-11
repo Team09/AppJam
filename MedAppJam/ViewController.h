@@ -10,8 +10,6 @@
 
 @interface ViewController : UIViewController
 
-- (IBAction)MoodTracker;
-- (IBAction)Resources;
-- (IBAction)GetHelp;
+
 
 @end
