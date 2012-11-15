@@ -31,7 +31,6 @@
     reminderArray = [[NSMutableArray alloc] initWithObjects:@"Apple",@"Pineapple",@"Banana",nil];
     
     [super viewDidLoad];
-
     
 }
 

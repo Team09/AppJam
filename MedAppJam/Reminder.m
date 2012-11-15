@@ -66,7 +66,7 @@
         
         //Now create an actual reminder in the phone
     }
-    //Else add a new reminder with the information entered in the fields to the end of the array
+        //Else add a new reminder with the information entered in the fields to the end of the array
     else{
         //Create new reminder
         

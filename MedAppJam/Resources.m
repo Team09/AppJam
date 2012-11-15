@@ -14,7 +14,10 @@
 @synthesize anxietyDisoreders;
 @synthesize eatingDisorders;
 @synthesize SubstanceAbuse;
+
 - (IBAction)pressOK:(UIButton *)sender {
+//I think I have an easier way to implement this, because the below is trying to alter the table dynamically based on whether the switches are on or not. Since we're putting them on separate pages this isn't necessary - instead when the user changes the status of a button, change an array of values that correspond to whether or not each button was activated - then when you are on the table view page you can reference those values and display the table from there. Dunno, might be easier.
+    
     
     if (!generalmental.on){
         //[GeneralMental setHidden:YES];
